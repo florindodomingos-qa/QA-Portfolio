@@ -2,7 +2,7 @@
 
 **Test Technique:** Decision Table Testing (ISTQB Foundation Level)
 **Feature under test:** GitHub Login page (https://github.com/login)
-**Author:** [Your Name]
+**Author:** [Florindo Domingos]
 **Date:** June 2026
 
 ---
